@@ -55,4 +55,6 @@ alias rm='nocorrect rm -i'
 alias cp='cp -ip'
 alias mv='mv -i'
 alias git='nocorrect git'
-#alias vim='/opt/local/bin/vim'
+
+# original
+alias st='screen -t'
